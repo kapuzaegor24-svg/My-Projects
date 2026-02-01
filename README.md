@@ -1,5 +1,5 @@
 # My-Projects
-In this respiratory I will add websites where will my ideas about world where was found new universe where has magic or in other words "emptiness" where will happens events after events on Earth. Events which happens in new universe happened, because of big world war or more information about this in basic.html with other in future files about other things.
+In this respiratory I will add websites where will my ideas about world where was found new universe where has magic or in other words "emptiness" where will happens events after events on Earth. Events which happens in new universe happened, because of big world war or more information about this in earth.html with other in future files about other things about new universe.
 
 "Emptiness" or magic cannot:
 1.Create constant objects
