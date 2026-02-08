@@ -1,0 +1,37 @@
+body {
+    background-color: #FFFFF0;
+ }
+
+ p {
+    position: relative;
+    left: 10px;
+ }
+
+ .header {
+   background-color: #5F9EA0;
+   border: 2px solid black;
+   margin-bottom: 10px;;
+ }
+
+ .base-political {
+    border: 2px solid #000000;
+    margin-bottom: 10px;
+
+ }
+
+ .new-universe {
+    border: 2px solid #000000;
+    margin-bottom: 10px;
+ }
+
+ .next {
+   border: 2px solid #000000;
+   background-color: #5F9EA0;
+ }
+
+ h1,
+ h3,
+ h4 {
+    text-align: center;
+    font-family: Georgia;
+ }
