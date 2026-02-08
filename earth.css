@@ -8,8 +8,6 @@ body {
  }
 
  .header {
-   background-color: #5F9EA0;
-   border: 2px solid black;
    margin-bottom: 10px;;
  }
 
@@ -27,8 +25,7 @@ body {
  }
 
  h1,
- h3,
- h4 {
+ h3 {
     text-align: center;
     font-family: Georgia;
  }
