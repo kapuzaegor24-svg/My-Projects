@@ -5,23 +5,19 @@ body {
  p {
     position: relative;
     left: 10px;
+    font-size: 1em;
  }
 
- .header {
-   margin-bottom: 10px;;
+ h1{
+  font-size: 2em;
  }
 
- .base-political {
-    margin-bottom: 10px;
-
+ h3 {
+   font-size: 1.5em;
  }
 
- .new-universe {
-    margin-bottom: 10px;
- }
-
- .next {
-   
+ h4 {
+   font-size: 1.5em;
  }
 
  h1,
@@ -29,3 +25,18 @@ body {
     text-align: center;
     font-family: Georgia;
  }
+
+ .header {
+    margin-bottom: 10px;
+ }
+
+ .base-political {
+    margin-bottom: 10px;
+    max-width: 500px;
+    min-width: 100px;
+ }
+
+ .new-universe {
+    margin-bottom: 10px;
+ }
+ 
